@@ -73,6 +73,16 @@ body h3{
     align-items: center;
 }
 
+body h4{
+    font-size: 1.5em;
+    text-decoration: underline;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+body p{
+    list-style-position: inside;
+}
 body{
     background-color: rgb(232, 232, 255);
 }
